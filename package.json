@@ -1,0 +1,25 @@
+{
+  "name": "test-tools",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqiang93/test-tools.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "bingzhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiqiang93/test-tools/issues"
+  },
+  "homepage": "https://github.com/zhiqiang93/test-tools#readme"
+}
